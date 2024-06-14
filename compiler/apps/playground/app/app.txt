@@ -1,6 +1,12 @@
+
+
+
+
+
 q--->quit
 q!--->quit without saving
 wq-->write and save
 w-->save
 w!-->save as forefully(overwrites).
-somww
+sowmya is in america 
+Happy or sad
