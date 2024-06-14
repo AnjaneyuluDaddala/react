@@ -4,4 +4,3 @@ wq-->write and save
 w-->save
 w!-->save as forefully(overwrites).
 somww
-password
